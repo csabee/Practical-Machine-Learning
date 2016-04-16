@@ -145,7 +145,7 @@ And the finalization.
 fit$finalModel
 ```
 
-The reported OOB Estimated Error is 12%. 
+The reported OOB Estimated Error is 15%. 
 Based on the validation accuracy at over 99% and Cross-Validation out-of-sample error rate of 0.03%, with CI between 99.87% to 99.97%, the prediction model can be applied to the final testing set, and predict the classes in the 20 test cases.
 
 # Apply prediction model
